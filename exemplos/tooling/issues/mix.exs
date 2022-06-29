@@ -42,7 +42,7 @@ defmodule Issues.Mixfile do
       {:poison,     "~> 2.2"},
       {:ex_doc,     "~> 0.12"},
       {:earmark,    "~> 1.0",    override: true},
-      {:excoveralls, "~> 0.5.5", only: :test}
+      {:excoveralls, "~> 0.14.0", only: :test}
     ]
   end
 
