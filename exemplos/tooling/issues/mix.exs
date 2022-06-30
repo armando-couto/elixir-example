@@ -38,7 +38,7 @@ defmodule Issues.Mixfile do
 
   defp deps do
     [
-      {:httpoison,  "~> 0.9"},
+      {:httpoison,  "~> 0.13"},
       {:poison,     "~> 2.2"},
       {:ex_doc,     "~> 0.12"},
       {:earmark,    "~> 1.0",    override: true},
