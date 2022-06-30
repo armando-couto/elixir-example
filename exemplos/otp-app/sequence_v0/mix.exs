@@ -33,7 +33,7 @@ defmodule Sequence.MixProject do
 
   defp deps do
     [
-      {:distillery, "~> 1.5", runtime: false},
+      {:distillery, "~> 2.0", runtime: false},
     ]
   end
 end
