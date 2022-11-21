@@ -40,7 +40,7 @@ defmodule Issues.Mixfile do
     [
       {:httpoison,  "~> 1.0"},
       {:poison,     "~> 5.0"},
-      {:ex_doc,     "~> 0.28"},
+      {:ex_doc,     "~> 0.29"},
       {:earmark,    "~> 1.0",    override: true},
       {:excoveralls, "~> 0.14.0", only: :test}
     ]
