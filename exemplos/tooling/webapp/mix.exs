@@ -42,7 +42,7 @@ defmodule Webapp.Mixfile do
      {:phoenix_ecto, "~> 4.0"},
      {:phoenix_pubsub, "~> 2.0"},
      {:postgrex, ">= 0.0.0"},
-     {:phoenix_html, "~> 3.0"},
+     {:phoenix_html, "~> 4.0"},
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.24"},
      {:cowboy, "~> 2.0"}]
