@@ -44,7 +44,7 @@ defmodule Webapp.Mixfile do
      {:postgrex, ">= 0.0.0"},
      {:phoenix_html, "~> 4.0"},
      {:phoenix_live_reload, "~> 1.0", only: :dev},
-     {:gettext, "~> 0.25"},
+     {:gettext, "~> 0.26"},
      {:cowboy, "~> 2.0"}]
   end
 
